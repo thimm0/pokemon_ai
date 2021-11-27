@@ -1,0 +1,22 @@
+{
+  "name": "pokemon_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thimm0/pokemon_ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thimm0/pokemon_ai/issues"
+  },
+  "homepage": "https://github.com/thimm0/pokemon_ai#readme",
+  "dependencies": {
+    "pokemon-showdown": "^0.11.7"
+  }
+}
